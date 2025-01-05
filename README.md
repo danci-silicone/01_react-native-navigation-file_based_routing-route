@@ -4,8 +4,11 @@
 
 
 ## O projektu
-Ovo je mobilna aplikacija izrađena pomoću [React Native](https://reactnative.dev/), popularnog okvira za izradu native aplikacija koristeći React.
-Aplikacija implementira file-based routing, što znači da se rute generiraju na osnovu strukture datoteka unutar mape predviđene za rute. Svaka datoteka u odgovarajućoj mapi (npr. routes/) predstavlja jednu rutu. Ovo omogućava automatsko povezivanje URL-ova sa odgovarajućim komponentama ili stranicama, bez potrebe za eksplicitnim definiranjem ruta u dodatnim konfiguracijskim fajlovima.
+- Ovo je mobilna aplikacija izrađena pomoću [React Native](https://reactnative.dev/), popularnog okvira za izradu native aplikacija koristeći React.
+
+- Aplikacija implementira file-based routing, što znači da se rute generiraju na osnovu strukture datoteka unutar mape predviđene za rute. 
+- Svaka datoteka u odgovarajućoj mapi (npr. routes/) predstavlja jednu rutu. 
+- Ovo omogućava automatsko povezivanje URL-ova sa odgovarajućim komponentama ili stranicama, bez potrebe za eksplicitnim definiranjem ruta u dodatnim konfiguracijskim datotekama.
 
 ## Preduvjeti
 Prije pokretanja ovog projekta, provjerite imate li instalirano sljedeće:
